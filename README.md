@@ -1,5 +1,7 @@
 # why_i_am_failing
 <i>Let me list...</i>
+</br>
 <strong>----------------</strong>
 <b>Failing was never an option</b>
+</br>
 # See_you_soon
