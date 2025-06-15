@@ -4,6 +4,6 @@
 <strong>----------------</strong>
 </br>
 <b>Failing was never an option</b>
-<b><HSPINS abbri: Head is Spinning> Right Now! </b>
+<b>Head is Spinning Right Now! </b>
 </br>
 # See_you_soon
